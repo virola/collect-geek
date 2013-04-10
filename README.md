@@ -1,4 +1,4 @@
-collect-geek
+Collect Geek
 ============
 
 Another toy of mine
